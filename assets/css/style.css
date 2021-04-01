@@ -392,7 +392,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 64px;
   text-align: center;
   border: 2px solid #fff;
-  color: #fff;
+  color: rgb(255, 255, 255);
 }
 
 #hero .btn-get-started:hover {
